@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="" width="400px">
 </div>
 <h1 align="center">Hi 👋, I'm Sebastian Bernal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from Colombia</h3>
 
 - 🔭 I’m currently working on **Campuslands**
 
