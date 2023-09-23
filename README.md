@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node js, Expres js, React, Laravel**
 
-- 💬 Ask me about **javascript, php, python, SQL and programming logic**
+- 💬 Ask me about **javascript, php, python, NodeJs, ReactJs, HTML, CSS, SQL, MongoDB and programming logic**
 
 - 📫 How to reach me **sebas201154@gmail.com**
 
