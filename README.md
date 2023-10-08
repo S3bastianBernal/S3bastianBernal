@@ -22,7 +22,7 @@
 
 <h3>📊 My Stats :</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cristian212010&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=S3bastianBernal&theme=prussian)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3bastianBernal&show_icons=true&theme=radical)
 
