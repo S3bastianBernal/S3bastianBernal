@@ -24,7 +24,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cristian212010&theme=prussian)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian212010&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3bastianBernal&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian212010&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3bastianBernal&hide_progress=true)
 
